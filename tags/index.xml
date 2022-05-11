@@ -5,6 +5,25 @@
     <link>https://762610973.github.io/tags/</link>
     <description>Recent content in Tags on umbrellaのBlog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://762610973.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 May 2022 16:19:40 +0800</lastBuildDate><atom:link href="https://762610973.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go</title>
+      <link>https://762610973.github.io/tags/go/</link>
+      <pubDate>Wed, 11 May 2022 16:19:40 +0800</pubDate>
+      
+      <guid>https://762610973.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>标准库</title>
+      <link>https://762610973.github.io/tags/%E6%A0%87%E5%87%86%E5%BA%93/</link>
+      <pubDate>Wed, 11 May 2022 16:19:40 +0800</pubDate>
+      
+      <guid>https://762610973.github.io/tags/%E6%A0%87%E5%87%86%E5%BA%93/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
